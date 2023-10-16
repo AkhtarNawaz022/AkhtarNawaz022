@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akhtar Nawaz</h1>
+![](https://github.com/AkhtarNawaz022/AkhtarNawaz022/blob/main/WhatsApp%20Image%202023-10-16%20at%2023.59.42_36514e10.jpg)
+<h1 align="center">Hi 👋 I'm Akhtar Nawaz</h1>
 <h3 align="center">A passionate Front-end developer from Pakistan.</h3>
 
 <img align="right" alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
